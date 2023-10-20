@@ -3,4 +3,5 @@ data science
 machine learning
 saya sedang bealajr github wpu
 doakan semoga lancar
-;
+belajar vue
+belajar react
